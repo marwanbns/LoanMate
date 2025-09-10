@@ -11,8 +11,8 @@ Le notebook contient l’ensemble des étapes classiques d’un workflow ML :
 ## Installation  
 Cloner le repo et installer les dépendances :  
 ```bash
-git clone https://github.com/<ton-user>/<repo>.git
-cd <repo>
+git clone https://github.com/marwanbns/LoanMate
+cd LoanMate
 pip install -r requirements.txt
 ```
 
